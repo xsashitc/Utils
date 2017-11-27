@@ -183,10 +183,6 @@ public final class CipherUtil {
         return cipher.doFinal(data);
     }
 
-    public static byte[] decrypt(byte[] data) throws Exception{
-        return decrypt(data,decodeBase64(KEY));
-    }
-
     /**
      * 解密
      *
