@@ -20,3 +20,6 @@ Toast工具类，防止Toast多次创建
 ###SharedPreferenceUtil
 SharedPreference工具类，提供Context,根据SharedPreference名，key来查找，可设默认值
 
+###ColorUtil
+颜色工具类，提供随机颜色
+
