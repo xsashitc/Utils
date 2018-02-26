@@ -23,3 +23,6 @@ SharedPreference工具类，提供Context,根据SharedPreference名，key来查�
 ###ColorUtil
 颜色工具类，提供随机颜色
 
+###BitmapUtil
+Bitmap工具类，提供图片缩放
+
